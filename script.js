@@ -10,9 +10,3 @@ musicBtn.addEventListener("click", () => {
     }
 
 });
-
-closeBtn.addEventListener("click", () => {
-
-    alert("Fechar tela");
-
-});
